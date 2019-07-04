@@ -1,0 +1,9 @@
+Discover Angular, the leading client-side web framework, from the point of view of an ASP.NET Core MVC developer. Best-selling author Adam Freeman brings these two key technologies together and explains how to use ASP.NET Core MVC to provide back-end services for Angular applications. This fast-paced, practical guide starts from the nuts and bolt and gives you the knowledge you need to combine Angular (from version 2.0 up) and ASP.NET Core MVC in your projects. 
+
+What You’ll Learn
+Gain a solid understanding of how ASP.NET Core MVC and Angular can work together
+Use Visual Studio 2017 to develop Angular/ASP.NET Core MVC projects 
+Create ASP.NET Core RESTful web services to support Angular applications 
+Expose data from Entity Framework Core to Angular applications
+Use ASP.NET Core Identity to provide security services to Angular applications
+Each topic is covered clearly and concisely and is packed with the essential details you need to learn to be truly effective. 

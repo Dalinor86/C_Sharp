@@ -1,0 +1,3 @@
+Are you a C# Developer who wants to be more productive? We've got good news! The latest and greatest features in C# can help. Join us to learn a more precise way to write constructs (that is, find out how to type less and code more).
+
+MVP and best-selling author Bill Wagner teams up with Microsoft Program Manager Anthony Green to explore auto property initializers, expression bodied members, null propagation operators, exception filters, string interpolation, and more. Find out how these new language features can make your C# development more efficient. And see how easy it is to look at your code, diagnose issues, and solve problems.
