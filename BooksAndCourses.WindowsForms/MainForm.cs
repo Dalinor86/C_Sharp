@@ -252,7 +252,10 @@ namespace BooksAndCourses.WinForms
             {
                 LibResource[] newlib = (LibResource[])formatter.Deserialize(fs);
 
+                var library = Library.GetInstance();
+                library.Resources = newlib.ToList<LibResource>();
 
+                _currentLibrary = library;
                 ReloadDgv(newlib);
                 //foreach (LibResource lr in newlib)
                 //{
