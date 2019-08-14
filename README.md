@@ -1,3 +1,3 @@
 # C_Sharp
-c# .Net 
+c# WinForms
 This project from course. 
